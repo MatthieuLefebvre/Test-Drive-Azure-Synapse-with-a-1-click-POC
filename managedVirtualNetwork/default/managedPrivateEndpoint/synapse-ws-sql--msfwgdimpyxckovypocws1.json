@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--msfwgdimpyxckovypocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4495aea3-1236-4df7-bfe7-ffa0902059ab/resourceGroups/Synapse_demo/providers/Microsoft.Synapse/workspaces/msfwgdimpyxckovypocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"msfwgdimpyxckovypocws1.a660662b-dc8a-4112-a036-091b86d837e9.sql.azuresynapse.net"
+		]
+	}
+}
